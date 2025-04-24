@@ -87,11 +87,19 @@ To implement and evaluate multiple **machine unlearning algorithms** that:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/010e1780-25d5-46d7-b6a3-f40f81f62cc5" width="600"/>
   <br>
-  <em>Figure 1: Performance Comparison of Hybrid Models</em>
+  <em>Figure 1: Retain vs Forget Accuracy for Hybrid Models</em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e385f7e-7c22-42ac-974a-4aa30a0d5ce8" width="600"/>
+  <br>
+  <em>Figure 2: Validation Accuracy Over Epochs</em>
 </p>
 
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e04a9f9-0949-4d1f-b85f-a65653e54bad" width="600"/>
+  <br>
+  <em>Figure 3: Accuracy Gaps (Retain - Forget) Across Modelss</em>
+</p>
 
 ---
 
